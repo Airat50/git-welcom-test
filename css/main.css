@@ -45,3 +45,12 @@ h1 {
   max-width: 800px;
   margin: 0 auto 28px auto;
 }
+
+.header {
+  padding: 50px 100px;
+  text-align: center;
+  background: rgb(122, 119, 119);
+  font-size: 32px;
+  font-family: sans-serif;
+  color: white;
+}
