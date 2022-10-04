@@ -45,3 +45,12 @@ h1 {
   max-width: 800px;
   margin: 0 auto 28px auto;
 }
+
+.main {
+  background: red;
+  padding: 50px 100px;
+  font-size: 38px;
+  color: white;
+  font-family: sans-serif;
+  text-align: center;
+}
