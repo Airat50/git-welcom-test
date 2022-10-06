@@ -1,5 +1,17 @@
 
 .header {
+  background: red;
+  padding: 50px 100px;
+  text-align: center;
+  background: rgb(122, 119, 119);
+  font-size: 32px;
+  font-family: sans-serif;
+  color: white;
+
+}
+
+.main {
+  background: red;
   padding: 50px 100px;
   text-align: center;
   background: rgb(122, 119, 119);
